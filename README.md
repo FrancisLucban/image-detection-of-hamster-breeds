@@ -1,4 +1,4 @@
-# Undergraduate Thesis
+# Image Recognition of Different Hamster Breeds Using Convolutional Neural Networks
 This repository contains some of the source files for my undergraduate thesis entitled "Image Recognition of Different Hamster Breeds Using Convolutional Neural Networks"
 
 ## Note
