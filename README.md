@@ -18,4 +18,5 @@ This repository contains some of the source files for my undergraduate thesis en
 This repo only includes the code for the application software specifically made for Raspberry Pi 4B, and the confusion matrix of the custom-made CNN model for hamster detection. Cloning or attempting to run the project as-is will likely be unsuccessful, as it relies on external assets and resources that are not included in this repository. The code is intended to demonstrate structure and functionality, but it is not a complete, standalone application.
 
 ## 📖 IEEE Article
+If you'd like to learn more about this project, please refer to the link below to read our official thesis paper
 [Link to IEEE Article](https://ieeexplore.ieee.org/document/10730364)
