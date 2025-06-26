@@ -19,4 +19,5 @@ This repo only includes the code for the application software specifically made 
 
 ## 📖 IEEE Article
 If you'd like to learn more about this project, please refer to the link below to read our official thesis paper
+
 [Link to IEEE Article](https://ieeexplore.ieee.org/document/10730364)
