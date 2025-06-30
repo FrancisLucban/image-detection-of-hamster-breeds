@@ -8,9 +8,9 @@ This repository contains some of the source files for my undergraduate thesis en
 
 ## 🛠️ Built With
 - **Raspberry Pi 4B** with 4GB RAM as its main hardware
-- **python** — core programming language (both training and application development)
+- **Python** — core programming language (both training and application development)
 - **TensorFlow** — deep learning framework used for model training and deployment
-- **Keras** – high-level API for building and customizing the VGG16-based CNN model
+- **Keras** — high-level API for building and customizing the VGG16-based CNN model
 - **tkinter** — standard GUI library
 - **customtkinter** — modern UI look
 
