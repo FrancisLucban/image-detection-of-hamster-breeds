@@ -1,5 +1,14 @@
 # 🐹 Image Recognition of Different Hamster Breeds Using Convolutional Neural Networks 📷 
-This repository contains some of the source files for my undergraduate thesis entitled "Image Recognition of Different Hamster Breeds Using Convolutional Neural Networks"
+
+![GUI](screenshots/IMG_9495.jpg)
+
+<p align="center">
+    <img src="https://icon.icepanel.io/Technology/svg/TensorFlow.svg" width="60px">
+    <img src="https://icon.icepanel.io/Technology/svg/Keras.svg" width="60px">
+    <img src="https://icon.icepanel.io/Technology/svg/Raspberry-Pi.svg" width="60px">
+    <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png" width="60px">
+    <img src="https://customtkinter.tomschimansky.com/img/icon.ico" width="60px">
+</p>
 
 ## ✨ Features
 - 🤖 Tailor-made CNN model for hamster breed identification based on VGG16 architecture
