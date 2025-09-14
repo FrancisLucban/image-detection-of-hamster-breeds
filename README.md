@@ -6,6 +6,7 @@
     <img src="https://icon.icepanel.io/Technology/svg/TensorFlow.svg" width="60px">
     <img src="https://icon.icepanel.io/Technology/svg/Keras.svg" width="60px">
     <img src="https://icon.icepanel.io/Technology/svg/Raspberry-Pi.svg" width="60px">
+    <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/jupyter_notebook.png" width="60px">
     <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png" width="60px">
     <img src="https://customtkinter.tomschimansky.com/img/icon.ico" width="60px">
 </p>
